@@ -1,3 +1,3 @@
 # Performance testing module
 
-Utility functions to aid in the testing of JavaScript performance
+Utility functions for the testing of JavaScript's execution performance
